@@ -1,0 +1,19 @@
+Project 8: All-Pairs Shortest Path Matrix Update (Floyd-Warshall)
+
+Prompt 1 (main prompt):
+"Show iterative updates of distance matrix in Floyd-Warshall algorithm."
+
+Prompt 2 (refinement):
+"Make it an interactive step-by-step visualization of D(0) to D(4) for a
+4-vertex directed graph, highlighting the pivot row and column for each k
+and color-coding the cells that get updated."
+
+Prompt 3 (implementation):
+"Write a C program for Floyd-Warshall that prints each distance matrix
+D(0) to D(4) and logs every cell update."
+
+Prompt 4 (packaging):
+"Provide the visualization as a standalone HTML file I can host on
+GitHub Pages and link from my README."
+
+AI tool used: Claude (Anthropic)
