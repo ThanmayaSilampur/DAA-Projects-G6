@@ -1,0 +1,24 @@
+Illustrate the backtracking steps for coloring a 4-vertex graph using 3 colors.
+
+Use four vertices A, B, C and D with edges:
+A-B, B-C, C-D and D-A.
+
+Use three colors: Red, Green and Blue.
+
+Create a clear and professional flowchart showing:
+1. Start the graph coloring process.
+2. Select a vertex.
+3. Try assigning a color.
+4. Check whether the color is safe.
+5. If the color is safe, assign it and move to the next vertex.
+6. If there is a conflict with an adjacent vertex, reject the color and try the next color.
+7. If no color is possible, backtrack to the previous vertex and change its color.
+8. Continue until all vertices are colored.
+9. Show the final valid coloring.
+
+Clearly show the graph, color assignments, conflicts, decision boxes, arrows, and backtracking steps. Label the paths as "Safe", "Conflict", and "Backtrack".
+
+The final valid coloring should be:
+A = Red, B = Green, C = Red, D = Green.
+
+Make the visualization clean, simple, readable, and suitable for a BTech Data Structures and Algorithms Analysis (DAA) project presentation.
