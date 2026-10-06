@@ -4,11 +4,16 @@ This repository contains the individual deliverable for **Asymptotic Growth Comp
 
 ## Project
 
-- [Unit1_AlgorithmAnalysis/README.md](Unit1_AlgorithmAnalysis/README.md)
-- [Visualization.png](Unit1_AlgorithmAnalysis/Visualization.png)
-- [Prompt.txt](Unit1_AlgorithmAnalysis/Prompt.txt)
-- [Python generator](Unit1_AlgorithmAnalysis/Project3_AsymptoticGrowth.py)
+* [Unit1\_AlgorithmAnalysis/README.md](Unit1_AlgorithmAnalysis/README.md)
+* [Visualization.png](Unit1_AlgorithmAnalysis/Visualization.png)
+* [Prompt.txt](Unit1_AlgorithmAnalysis/Prompt.txt)
+* [Python generator](Unit1_AlgorithmAnalysis/Project3_AsymptoticGrowth.py)
 
 ## Scope
 
 The assignment PDF recommends one group repository containing five unit projects and a presentation. This workspace contains the requested Unit I, Project 3 deliverable only; add the other assigned group projects and presentation when assembling the full group repository.
+
+
+
+Updated project documentation
+
