@@ -1,0 +1,11 @@
+Prompt 1 (main, from the project list):
+"Draw a search tree showing bounding and pruning for TSP with 4 cities."
+
+Prompt 2 (refinement):
+"Use the cost matrix A-B=10, A-C=15, A-D=20, B-C=35, B-D=25, C-D=30. Show each node's path and
+lower bound using the reduced cost matrix method. Mark pruned nodes in red and highlight the
+optimal tour in green."
+
+Prompt 3 (animation):
+"Make a step-by-step animation that adds one node at a time to the tree, always expanding the node
+with the smallest lower bound, and shows a caption for each step."
