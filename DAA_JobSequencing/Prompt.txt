@@ -1,0 +1,18 @@
+Create a professional flowchart for the Greedy Job Sequencing with Deadlines algorithm.
+
+Show the following steps:
+1. Start
+2. Input jobs with their deadlines and profits
+3. Sort jobs in decreasing order of profit
+4. Find the maximum deadline
+5. Create empty time slots
+6. Select the next highest-profit job
+7. Check the latest available slot before its deadline
+8. If a slot is available, schedule the job and add its profit
+9. If no slot is available, skip the job
+10. Check whether more jobs remain
+11. If yes, select the next job
+12. If no, display the scheduled jobs and maximum profit
+13. End
+
+
